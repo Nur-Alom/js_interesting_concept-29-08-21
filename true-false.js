@@ -28,5 +28,3 @@ else {
     console.log('false');
 }
 
-
-
